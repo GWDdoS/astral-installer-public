@@ -1,4 +1,4 @@
-![Astral Logo](logo.png)
+![Astral Logo](https://raw.githubusercontent.com/GWDdoS/astral-installer-public/main/logo.png)
 
 # Astral Installer
  Astral: A bot made by botters, designed for botters. This project was started by Argxment, GWDdoS, and LoliGD. It is currently being developed by them with help from SlideGlide, and a few other people.
@@ -18,4 +18,4 @@
 * Thanks to Snopphin.
 * Thank you Wifty for giving advice about the project.
 
-![Astral Banner](banner.png)
+![Astral Banner](https://raw.githubusercontent.com/GWDdoS/astral-installer-public/main/Banner.png)
