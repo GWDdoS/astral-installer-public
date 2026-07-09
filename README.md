@@ -11,6 +11,7 @@
 # Community
 * [Official Website](https://astral-bot.com)
 * [Official Discord](https://discord.gg/2FrsXSMSE7)
+* [Official Open Discord](https://open-geode-index.bccst.ru/ui/mod/astralteam.astral-installer)
 
 # Special Thanks
 * Thank you Slideglide, Scarlet, and GMDPlutonic for helping us with this, also teaching us how to do not blow up this!
