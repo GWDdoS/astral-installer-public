@@ -18,4 +18,4 @@
 * Thanks to Snopphin.
 * Thank you Wifty for giving advice about the project.
 
-![Astral Banner](https://raw.githubusercontent.com/GWDdoS/astral-installer-public/main/Banner.png)
+![Astral Banner](https://raw.githubusercontent.com/GWDdoS/astral-installer-public/main/banner.png)
